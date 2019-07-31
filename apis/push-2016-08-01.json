@@ -257,6 +257,9 @@
 					"AndroidNotificationBarPriority": {
 						"type": "integer"
 					},
+					"AndroidNotificationChannel": {
+						"type": "string"
+					},
 					"AndroidExtParameters": {
 						"type": "string"
 					},
@@ -274,6 +277,9 @@
 					},
 					"iOSBadge": {
 						"type": "integer"
+					},
+					"iOSBadgeAutoIncrement":{
+						"type": "boolean"
 					},
 					"iOSSilentNotification": {
 						"type": "boolean"

@@ -1,5 +1,5 @@
 {
-  "name": "aliyun-sdk",
+  "name": "@wanscloud/aliyun-sdk",
   "description": "Aliyun SDK for JavaScript",
   "version": "1.12.1",
   "author": {
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:sharper/aliyun-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
+    "url": "https://github.com/sharper/aliyun-sdk-js/issues",
     "mail": ""
   },
   "keywords": [],
